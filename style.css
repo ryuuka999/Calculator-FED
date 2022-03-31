@@ -85,12 +85,16 @@ body {
     color: #ddd
 }
 
-.dark_mode_active #clear,
+.dark_mode_active #clear_all,
 #equalTo {
     color: #000
 }
 
 .dark_mode_active #result {
+    color: #ddd
+}
+
+.dark_mode_active #clear {
     color: #ddd
 }
 
